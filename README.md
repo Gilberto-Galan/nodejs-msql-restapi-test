@@ -1,6 +1,12 @@
 # Proyecto NodeJS
 Creado con el uso de NodeJs, Express & MYSQL
 
+## Programas requieridos
+
+* **NodeJs**
+* **Mysql**
+* **Visual Code**
+
 ## Ejecutar localmente
 
 Clona el repositorio
